@@ -9,6 +9,19 @@
     $http.get('sessions.json').success(function(data){
       self.data = data;
       self.times = data.times;
+      
+      var now = new Date();
+      var nowHack = parseInt(now.getHours() + "" + now.getMinutes() + "00");
+      
+      var set = false;
+      self.times.forEach(function(time){
+         
+        var timeInt = parseInt(time.start.replace(/:/g, ""));
+        if (!set && nowHack < timeInt){
+          self.onTimeChange(time);
+          set = true;
+        }
+      });
     });
     
   };
