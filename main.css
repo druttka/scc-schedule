@@ -1,0 +1,13 @@
+.time{
+  padding:10px;
+  border:1px solid blue;
+  float:left;
+}
+.sessions{
+  float:left;
+  clear:left;
+}
+.sessions li{
+  margin-bottom:10px;
+  list-style:none;
+}
