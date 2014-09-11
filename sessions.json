@@ -32,14 +32,7 @@
 			{"Speaker":"","Title":"Not Scheduled","Room":"Pigott 304"}
 		],
 		[
-			{"Speaker":"John Mayfield","Title":"Nordstrom's Technology Revolution","Room":"Pigott Auditorium"},
-			{"Speaker":"John Mayfield","Title":"Nordstrom's Technology Revolution","Room":"Pigott Auditorium"},
-			{"Speaker":"John Mayfield","Title":"Nordstrom's Technology Revolution","Room":"Pigott Auditorium"},
-			{"Speaker":"John Mayfield","Title":"Nordstrom's Technology Revolution","Room":"Pigott Auditorium"},	
-			{"Speaker":"John Mayfield","Title":"Nordstrom's Technology Revolution","Room":"Pigott Auditorium"},
-			{"Speaker":"John Mayfield","Title":"Nordstrom's Technology Revolution","Room":"Pigott Auditorium"},
-			{"Speaker":"John Mayfield","Title":"Nordstrom's Technology Revolution","Room":"Pigott Auditorium"},	
-			{"Speaker":"John Mayfield","Title":"Nordstrom's Technology Revolution","Room":"Pigott Auditorium"}			
+			{"Speaker":"John Mayfield","Title":"Nordstrom's Technology Revolution","Room":"Pigott Auditorium"}
 		],
 		[
 			{"Speaker":"Jeremy Foster","Title":"Core JavaScript Concepts","Room":"Pigott 100"},
@@ -82,13 +75,6 @@
 			{"Speaker":"Kelly White","Title":"Intro to Windows Platform Development","Room":"Pigott 304"}
 		],
 		[			
-			{"Speaker":"Chris Kinsman","Title":"Closing Remarks and Raffle","Room":"Pigott Auditorium"},
-			{"Speaker":"Chris Kinsman","Title":"Closing Remarks and Raffle","Room":"Pigott Auditorium"},
-			{"Speaker":"Chris Kinsman","Title":"Closing Remarks and Raffle","Room":"Pigott Auditorium"},
-			{"Speaker":"Chris Kinsman","Title":"Closing Remarks and Raffle","Room":"Pigott Auditorium"},	
-			{"Speaker":"Chris Kinsman","Title":"Closing Remarks and Raffle","Room":"Pigott Auditorium"},
-			{"Speaker":"Chris Kinsman","Title":"Closing Remarks and Raffle","Room":"Pigott Auditorium"},
-			{"Speaker":"Chris Kinsman","Title":"Closing Remarks and Raffle","Room":"Pigott Auditorium"},
 			{"Speaker":"Chris Kinsman","Title":"Closing Remarks and Raffle","Room":"Pigott Auditorium"}
 		]
 	]
