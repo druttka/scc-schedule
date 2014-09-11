@@ -28,8 +28,11 @@
 
   SessionsController.prototype.onTimeChange = function(x){
     var idx = this.times.indexOf(x);
+    
     var self = this;
+    
     self.sessions.length = 0;
+    self.selectedTime = x;
 
     self.data.sessions[idx].forEach(function(s) { self.sessions.push(s); });
   };
