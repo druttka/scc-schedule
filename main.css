@@ -1,3 +1,7 @@
+body{
+  color: #17599f;
+}
+
 .time{
   padding:10px;
   border:2px solid #88e93c;
@@ -5,14 +9,18 @@
   border-radius:0 0 0 10px;
   float:left;
 }
+
 .sessions{
   float:left;
   clear:left;
 }
+
 .sessions li{
   margin-bottom:10px;
   list-style:none;
+  font-size:1.4em;
 }
+
 .selected{
   color:#17599f;
   background-color:#88e93c;
