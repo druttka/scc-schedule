@@ -1,6 +1,8 @@
 .time{
   padding:10px;
-  border:1px solid blue;
+  border:2px solid #88e93c;
+  margin:0 5px;
+  border-radius:0 0 0 10px;
   float:left;
 }
 .sessions{
@@ -12,10 +14,12 @@
   list-style:none;
 }
 .selected{
-  color:white;
-  background-color:blue;
+  color:#17599f;
+  background-color:#88e93c;
 }
 
 a {
-  color : blue;
+  color : #17599f;
+  font-weight:600;
+  text-decoration:none;
 }
