@@ -11,7 +11,7 @@
       self.times = data.times;
       
       var now = new Date();
-      var nowHack = parseInt(now.getHours() + "" + now.getMinutes() + "00");
+      var nowHack = parseInt(now.getHours() + "" + (now.getMinutes() < 10 ? "0" : "") + now.getMinutes() + "00");
       
       var set = false;
       self.times.forEach(function(time){
