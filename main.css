@@ -88,3 +88,10 @@ a {
   font-weight:600;
   text-decoration:none;
 }
+footer{
+  margin:10px;
+  clear:left;
+}
+footer a{
+  text-decoration:underline;
+}
