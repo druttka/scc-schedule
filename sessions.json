@@ -14,11 +14,10 @@
 		[
 			{"Speaker":"Jeremy Foster","Title":"Angular.js Apps on Windows and Windows Phone","Room":"Pigott 100"},
 			{"Speaker":"Cheryl M Hammond","Title":"Metrics That Matter","Room":"Pigott 101"},
-			{"Speaker":"Robert Green","Title":"Web API for the WCF Guy and Gal","Room":"Pigott 102"},
 			{"Speaker":"Jeff Tucker","Title":"Intro to Networking:  HTTP and TCP","Room":"Pigott 103"},
 			{"Speaker":"Brian Walter","Title":"Why [Operational] Engineers Should Code","Room":"Pigott 200"},
 			{"Speaker":"Eugenio Pace","Title":"Death to Cookies, Long Live JSON Web Tokens","Room":"Pigott 202"},
-			{"Speaker":"","Title":"Not Scheduled","Room":"Pigott 204"},
+			{"Speaker":"Mike Clement","Title":"Thinking in F#","Room":"Pigott 204"},
 			{"Speaker":"Jason Short, PhD","Title":"Design Rules for Free 2 Play Games","Room":"Pigott 304"}
 		],
 		[
@@ -28,8 +27,7 @@
 			{"Speaker":"Josip Medved","Title":"What every developer has to know about IPv6","Room":"Pigott 103"},		
 			{"Speaker":"Chris McKenzie","Title":"Scaling Craftsmanship Through Apprenticeship","Room":"Pigott 200"},
 			{"Speaker":"Jesse Riley","Title":"Using Nodejs, OAuth and Heroku to handle n-integrations","Room":"Pigott 202"},
-			{"Speaker":"Larry Jordan Jr","Title":"Real World Xamarin","Room":"Pigott 204"},
-			{"Speaker":"","Title":"Not Scheduled","Room":"Pigott 304"}
+			{"Speaker":"Larry Jordan Jr","Title":"Real World Xamarin","Room":"Pigott 204"}
 		],
 		[
 			{"Speaker":"John Mayfield","Title":"Nordstrom's Technology Revolution","Room":"Pigott Auditorium"}
@@ -41,8 +39,7 @@
 			{"Speaker":"Andrei Rubaniuk","Title":"The Elements of Your Career","Room":"Pigott 103"},
 			{"Speaker":"Jesse Riley","Title":"Hands On Intro to TDD","Room":"Pigott 200"},
 			{"Speaker":"Eugenio Pace","Title":"Are our SPAs safe?","Room":"Pigott 202"},
-			{"Speaker":"Ted Neward","Title":"Busy Developer's Guide to Apple's Swift","Room":"Pigott 204"},
-			{"Speaker":"","Title":"Not Scheduled","Room":"Pigott 304"}
+			{"Speaker":"Ted Neward","Title":"Busy Developer's Guide to Apple's Swift","Room":"Pigott 204"}
 		],
 		[
 			{"Speaker":"Ted Neward","Title":"Modern Web Architecture: 2014 Edition","Room":"Pigott 100"},
@@ -66,11 +63,9 @@
 		],
 		[
 			{"Speaker":"Avkash Chauhan","Title":"Introduction to Hadoop, HDInsight & Big Data Analytics (Part 1 and 2)","Room":"Pigott 100"},
-			{"Speaker":"","Title":"Not Scheduled","Room":"Pigott 101"},
 			{"Speaker":"Mario Hewardt","Title":"Debugging Memory Problems in your .NET Applications","Room":"Pigott 102"},
 			{"Speaker":"Ted Neward","Title":"Dragonflight: A Case Study","Room":"Pigott 103"},
 			{"Speaker":"Jeremy Foster","Title":"Where Technology (Should) Fit into Real Life","Room":"Pigott 200"},
-			{"Speaker":"","Title":"Not Scheduled","Room":"Pigott 202"},
 			{"Speaker":"James Montemagno","Title":"Xamarin.Forms: iOS, Android, & Windows Phone apps from 1 C# Code Base","Room":"Pigott 204"},
 			{"Speaker":"Kelly White","Title":"Intro to Windows Platform Development","Room":"Pigott 304"}
 		],
