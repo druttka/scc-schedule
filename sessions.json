@@ -12,511 +12,511 @@
 		"Title": "Management Jitters: Get over the anxiety and understand your new role!",
 		"Room": "Room 102",
 		"Time": "8:30",
-		"SessionUri": "/Session/Details/161",
-		"SpeakerUri": "/Speaker/Details/902"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/161",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/902"
 	},
 	{
 		"Speaker": "Linda Zhong",
 		"Title": "The Cross-platform Mobile Developer Starter Kit for JavaScript/web developers",
 		"Room": "Room 103",
 		"Time": "8:30",
-		"SessionUri": "/Session/Details/148",
-		"SpeakerUri": "/Speaker/Details/895"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/148",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/895"
 	},
 	{
 		"Speaker": "Bobby Johnson",
 		"Title": "Introduction to .NET Core CLI and Cross Platform Development",
 		"Room": "Room 104",
 		"Time": "8:30",
-		"SessionUri": "/Session/Details/118",
-		"SpeakerUri": "/Speaker/Details/833"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/118",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/833"
 	},
 	{
 		"Speaker": "Peter Degen-Portnoy",
 		"Title": "Live on Mars?  Teamwork and Impossible Dreams",
 		"Room": "Room 105",
 		"Time": "8:30",
-		"SessionUri": "/Session/Details/157",
-		"SpeakerUri": "/Speaker/Details/899"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/157",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/899"
 	},
 	{
 		"Speaker": "Jomit Vaghela",
 		"Title": "Azure For Developers",
 		"Room": "Room 200",
 		"Time": "8:30",
-		"SessionUri": "/Session/Details/140",
-		"SpeakerUri": "/Speaker/Details/29"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/140",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/29"
 	},
 	{
 		"Speaker": "Kevin Goldsmith",
 		"Title": "Fail safe, fail smart, succeed",
 		"Room": "Room 107",
 		"Time": "8:30",
-		"SessionUri": "/Session/Details/146",
-		"SpeakerUri": "/Speaker/Details/893"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/146",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/893"
 	},
 	{
 		"Speaker": "Patrick Kettner",
 		"Title": "Building Command Line Apps in JavaScript",
 		"Room": "Room 201",
 		"Time": "8:30",
-		"SessionUri": "/Session/Details/168",
-		"SpeakerUri": "/Speaker/Details/944"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/168",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/944"
 	},
 	{
 		"Speaker": "Jason Short",
 		"Title": "Building cross platform apps with Xamarin Forms",
 		"Room": "Room 202",
 		"Time": "8:30",
-		"SessionUri": "/Session/Details/141",
-		"SpeakerUri": "/Speaker/Details/890"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/141",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/890"
 	},
 	{
 		"Speaker": "Michael Schoonmaker",
 		"Title": "Infinite Possibilities: Procedural Content Generation",
 		"Room": "Room 204",
 		"Time": "8:30",
-		"SessionUri": "/Session/Details/183",
-		"SpeakerUri": "/Speaker/Details/1144"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/183",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/1144"
 	}],
 	[{
 		"Speaker": "Abe Diaz",
 		"Title": "Introduction to building Alexa skills and putting your Amazon Echo to work. ",
 		"Room": "Room 100",
 		"Time": "9:45",
-		"SessionUri": "/Session/Details/114",
-		"SpeakerUri": "/Speaker/Details/846"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/114",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/846"
 	},
 	{
 		"Speaker": "Gaurav Garg",
 		"Title": "Role of Data Science in Healthcare Industry",
 		"Room": "Room 102",
 		"Time": "9:45",
-		"SessionUri": "/Session/Details/130",
-		"SpeakerUri": "/Speaker/Details/145"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/130",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/145"
 	},
 	{
 		"Speaker": "Sanjeev Dwivedi",
 		"Title": "Arduino and Robotics with Middle and High Schoolers: Experiments and Experiences",
 		"Room": "Room 103",
 		"Time": "9:45",
-		"SessionUri": "/Session/Details/160",
-		"SpeakerUri": "/Speaker/Details/901"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/160",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/901"
 	},
 	{
 		"Speaker": "Yatish Mehta",
 		"Title": "ActionCable and ReactJS tie the knot",
 		"Room": "Room 104",
 		"Time": "9:45",
-		"SessionUri": "/Session/Details/165",
-		"SpeakerUri": "/Speaker/Details/853"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/165",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/853"
 	},
 	{
 		"Speaker": "Michael Crump",
 		"Title": "Bring your existing code to the Universal Windows Platform on Windows 10",
 		"Room": "Room 105",
 		"Time": "9:45",
-		"SessionUri": "/Session/Details/150",
-		"SpeakerUri": "/Speaker/Details/897"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/150",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/897"
 	},
 	{
 		"Speaker": "Cam Buckingham",
 		"Title": "How to Commit to your Commits - A 365-day Commit Streak Journey ",
 		"Room": "Room 106",
 		"Time": "9:45",
-		"SessionUri": "/Session/Details/121",
-		"SpeakerUri": "/Speaker/Details/881"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/121",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/881"
 	},
 	{
 		"Speaker": "Nirnay Bansal",
 		"Title": "From Smartphones to IoT to Azure",
 		"Room": "Room 200",
 		"Time": "9:45",
-		"SessionUri": "/Session/Details/154",
-		"SpeakerUri": "/Speaker/Details/898"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/154",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/898"
 	},
 	{
 		"Speaker": "Gerard Cohen",
 		"Title": "Accessibility Testing Tools for Developers",
 		"Room": "Room 107",
 		"Time": "9:45",
-		"SessionUri": "/Session/Details/131",
-		"SpeakerUri": "/Speaker/Details/884"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/131",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/884"
 	},
 	{
 		"Speaker": "Christopher Bennage",
 		"Title": "Performance Optimization & the Cloud: Lessons Learned",
 		"Room": "Room 201",
 		"Time": "9:45",
-		"SessionUri": "/Session/Details/169",
-		"SpeakerUri": "/Speaker/Details/945"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/169",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/945"
 	},
 	{
 		"Speaker": "Jeremy Foster",
 		"Title": "Introduction to Angular 2.0",
 		"Room": "Room 202",
 		"Time": "9:45",
-		"SessionUri": "/Session/Details/166",
-		"SpeakerUri": "/Speaker/Details/888"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/166",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/888"
 	},
 	{
 		"Speaker": "Matt Johnson",
 		"Title": "Cloud Design Patterns for Scalability and Performance",
 		"Room": "Room 204",
 		"Time": "9:45",
-		"SessionUri": "/Session/Details/171",
-		"SpeakerUri": "/Speaker/Details/24"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/171",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/24"
 	}],
 	[{
 		"Speaker": "Josip Medved",
 		"Title": "Crash Course In Foreign Language Support For US Developer",
 		"Room": "Room 100",
 		"Time": "11:00",
-		"SessionUri": "/Session/Details/138",
-		"SpeakerUri": "/Speaker/Details/20"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/138",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/20"
 	},
 	{
 		"Speaker": "Jason Yee",
 		"Title": "Data-driven Postmortems",
 		"Room": "Room 102",
 		"Time": "11:00",
-		"SessionUri": "/Session/Details/143",
-		"SpeakerUri": "/Speaker/Details/891"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/143",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/891"
 	},
 	{
 		"Speaker": "Nell Shamrell-Harrington",
 		"Title": "DevOps: A History",
 		"Room": "Room 103",
 		"Time": "11:00",
-		"SessionUri": "/Session/Details/153",
-		"SpeakerUri": "/Speaker/Details/297"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/153",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/297"
 	},
 	{
 		"Speaker": "James Churchill",
 		"Title": "Reactive Programming with RxJS",
 		"Room": "Room 104",
 		"Time": "11:00",
-		"SessionUri": "/Session/Details/134",
-		"SpeakerUri": "/Speaker/Details/886"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/134",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/886"
 	},
 	{
 		"Speaker": "Parashuram N",
 		"Title": "ReactJS and ReactNative - An exhaustive introduction",
 		"Room": "Room 105",
 		"Time": "11:00",
-		"SessionUri": "/Session/Details/125",
-		"SpeakerUri": "/Speaker/Details/882"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/125",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/882"
 	},
 	{
 		"Speaker": "Cheryl Hammond",
 		"Title": "Defense Against the Dark Arts: Protect Yourself from Evil Metrics by Learning Good Ones",
 		"Room": "Room 106",
 		"Time": "11:00",
-		"SessionUri": "/Session/Details/120",
-		"SpeakerUri": "/Speaker/Details/27"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/120",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/27"
 	},
 	{
 		"Speaker": "Paul Hacker",
 		"Title": "Getting Started with Team Foundation Server 2015 Build",
 		"Room": "Room 200",
 		"Time": "11:00",
-		"SessionUri": "/Session/Details/156",
-		"SpeakerUri": "/Speaker/Details/811"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/156",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/811"
 	},
 	{
 		"Speaker": "Ted Neward",
 		"Title": "Why My International Relations Degree Beats Your Computer Science Degree",
 		"Room": "Room 107",
 		"Time": "11:00",
-		"SessionUri": "/Session/Details/163",
-		"SpeakerUri": "/Speaker/Details/105"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/163",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/105"
 	},
 	{
 		"Speaker": "Carter Wickstrom",
 		"Title": "Rider: Adventures in Cross-Platform C# Development",
 		"Room": "Room 201",
 		"Time": "11:00",
-		"SessionUri": "/Session/Details/122",
-		"SpeakerUri": "/Speaker/Details/165"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/122",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/165"
 	},
 	{
 		"Speaker": "Karl Shifflett",
 		"Title": "Testable, ES2015, AngularJS 1.5.x Component based Applications",
 		"Room": "Room 202",
 		"Time": "11:00",
-		"SessionUri": "/Session/Details/145",
-		"SpeakerUri": "/Speaker/Details/892"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/145",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/892"
 	},
 	{
 		"Speaker": "Iqbal Khan",
 		"Title": "How to Scale Entity Framework Apps with Distributed Caching",
 		"Room": "Room 204",
 		"Time": "11:00",
-		"SessionUri": "/Session/Details/182",
-		"SpeakerUri": "/Speaker/Details/1174"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/182",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/1174"
 	}],
 	[{
 		"Speaker": "Josip Medved",
 		"Title": "Bash primer",
 		"Room": "Room 100",
 		"Time": "13:00",
-		"SessionUri": "/Session/Details/139",
-		"SpeakerUri": "/Speaker/Details/20"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/139",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/20"
 	},
 	{
 		"Speaker": "Jason Yee",
 		"Title": "Brooks' Law & Open Source: Is community-driven software doomed?",
 		"Room": "Room 102",
 		"Time": "13:00",
-		"SessionUri": "/Session/Details/142",
-		"SpeakerUri": "/Speaker/Details/891"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/142",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/891"
 	},
 	{
 		"Speaker": "Nell Shamrell-Harrington",
 		"Title": "Untangling Infrastructure Code Through Refactoring",
 		"Room": "Room 103",
 		"Time": "13:00",
-		"SessionUri": "/Session/Details/152",
-		"SpeakerUri": "/Speaker/Details/297"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/152",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/297"
 	},
 	{
 		"Speaker": "James Churchill",
 		"Title": "Can Anyone Learn to Program?",
 		"Room": "Room 104",
 		"Time": "13:00",
-		"SessionUri": "/Session/Details/133",
-		"SpeakerUri": "/Speaker/Details/886"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/133",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/886"
 	},
 	{
 		"Speaker": "Parashuram N",
 		"Title": "Rise of the Web Workers",
 		"Room": "Room 105",
 		"Time": "13:00",
-		"SessionUri": "/Session/Details/126",
-		"SpeakerUri": "/Speaker/Details/882"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/126",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/882"
 	},
 	{
 		"Speaker": "Cheryl Hammond",
 		"Title": "Lean Coffee: Mentoring and Community for Women in Tech",
 		"Room": "Room 106",
 		"Time": "13:00",
-		"SessionUri": "/Session/Details/119",
-		"SpeakerUri": "/Speaker/Details/27"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/119",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/27"
 	},
 	{
 		"Speaker": "Paul Hacker",
 		"Title": "Visual Studio 2015 and Azure Resource Manager",
 		"Room": "Room 200",
 		"Time": "13:00",
-		"SessionUri": "/Session/Details/155",
-		"SpeakerUri": "/Speaker/Details/811"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/155",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/811"
 	},
 	{
 		"Speaker": "Ted Neward",
 		"Title": "Psychology, Philosophy and Programming",
 		"Room": "Room 107",
 		"Time": "13:00",
-		"SessionUri": "/Session/Details/162",
-		"SpeakerUri": "/Speaker/Details/105"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/162",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/105"
 	},
 	{
 		"Speaker": "Carter Wickstrom",
 		"Title": "A Year of Robots: Teens, Tech, and Transformations",
 		"Room": "Room 201",
 		"Time": "13:00",
-		"SessionUri": "/Session/Details/123",
-		"SpeakerUri": "/Speaker/Details/165"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/123",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/165"
 	},
 	{
 		"Speaker": "Karl Shifflett",
 		"Title": "Rapid Xamarin.Forms XAML Data Entry Form Creation from MVVM ViewModel",
 		"Room": "Room 202",
 		"Time": "13:00",
-		"SessionUri": "/Session/Details/144",
-		"SpeakerUri": "/Speaker/Details/892"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/144",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/892"
 	},
 	{
 		"Speaker": "vidya vrat agarwal",
 		"Title": "How to use Agile correctly",
 		"Room": "Room 204",
 		"Time": "13:00",
-		"SessionUri": "/Session/Details/179",
-		"SpeakerUri": "/Speaker/Details/817"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/179",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/817"
 	}],
 	[{
 		"Speaker": "Robert McFrazier",
 		"Title": "Why your mobile site matters more than you think",
 		"Room": "Room 100",
 		"Time": "14:15",
-		"SessionUri": "/Session/Details/159",
-		"SpeakerUri": "/Speaker/Details/900"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/159",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/900"
 	},
 	{
 		"Speaker": "Gary Nakanelua",
 		"Title": "Getting Started With Machine Learning & Apache Spark",
 		"Room": "Room 102",
 		"Time": "14:15",
-		"SessionUri": "/Session/Details/132",
-		"SpeakerUri": "/Speaker/Details/885"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/132",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/885"
 	},
 	{
 		"Speaker": "Chris McKenzie",
 		"Title": "What I Wish I Knew Before I Started Leading a DevOps Initiative",
 		"Room": "Room 103",
 		"Time": "14:15",
-		"SessionUri": "/Session/Details/127",
-		"SpeakerUri": "/Speaker/Details/96"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/127",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/96"
 	},
 	{
 		"Speaker": "Amol Gholap",
 		"Title": ".NET CORE",
 		"Room": "Room 104",
 		"Time": "14:15",
-		"SessionUri": "/Session/Details/115",
-		"SpeakerUri": "/Speaker/Details/61"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/115",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/61"
 	},
 	{
 		"Speaker": "Robert Boedigheimer",
 		"Title": "ASP.NET Core 1.0 Tag Helpers",
 		"Room": "Room 105",
 		"Time": "14:15",
-		"SessionUri": "/Session/Details/173",
-		"SpeakerUri": "/Speaker/Details/1070"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/173",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/1070"
 	},
 	{
 		"Speaker": "Maggie Pint",
 		"Title": "Your DBA Says \"It Depends\". Now What?",
 		"Room": "Room 106",
 		"Time": "14:15",
-		"SessionUri": "/Session/Details/172",
-		"SpeakerUri": "/Speaker/Details/1115"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/172",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/1115"
 	},
 	{
 		"Speaker": "Jeremy Foster",
 		"Title": "Azure IoT Made Simple",
 		"Room": "Room 200",
 		"Time": "14:15",
-		"SessionUri": "/Session/Details/136",
-		"SpeakerUri": "/Speaker/Details/888"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/136",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/888"
 	},
 	{
 		"Speaker": "Derek Harmon",
 		"Title": "Making Software More Energy-Efficient",
 		"Room": "Room 107",
 		"Time": "14:15",
-		"SessionUri": "/Session/Details/149",
-		"SpeakerUri": "/Speaker/Details/896"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/149",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/896"
 	},
 	{
 		"Speaker": "Ryan Cavanaugh",
 		"Title": "Introducing TypeScript 2.0",
 		"Room": "Room 201",
 		"Time": "14:15",
-		"SessionUri": "/Session/Details/167",
-		"SpeakerUri": "/Speaker/Details/943"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/167",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/943"
 	},
 	{
 		"Speaker": "Tom Bulatewicz",
 		"Title": "The Awesome Power of Values",
 		"Room": "Room 202",
 		"Time": "14:15",
-		"SessionUri": "/Session/Details/164",
-		"SpeakerUri": "/Speaker/Details/903"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/164",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/903"
 	},
 	{
 		"Speaker": "Chris Beckett",
 		"Title": "Getting Started with Web Components using Polymer",
 		"Room": "Room 204",
 		"Time": "14:15",
-		"SessionUri": "/Session/Details/178",
-		"SpeakerUri": "/Speaker/Details/1098"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/178",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/1098"
 	}],
 	[{
 		"Speaker": "Pritam Baldota",
 		"Title": "ASP.Net Core Deep dive into MVC",
 		"Room": "Room 100",
 		"Time": "15:30",
-		"SessionUri": "/Session/Details/158",
-		"SpeakerUri": "/Speaker/Details/834"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/158",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/834"
 	},
 	{
 		"Speaker": "Charles Sweet",
 		"Title": "Grow Your Career with Higher Quality Code",
 		"Room": "Room 102",
 		"Time": "15:30",
-		"SessionUri": "/Session/Details/124",
-		"SpeakerUri": "/Speaker/Details/363"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/124",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/363"
 	},
 	{
 		"Speaker": "David Corona",
 		"Title": "Let's make a DSL!",
 		"Room": "Room 103",
 		"Time": "15:30",
-		"SessionUri": "/Session/Details/128",
-		"SpeakerUri": "/Speaker/Details/131"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/128",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/131"
 	},
 	{
 		"Speaker": "Anthony Chu",
 		"Title": "Docker All the Things - .NET 4.6 apps and Windows Containers",
 		"Room": "Room 104",
 		"Time": "15:30",
-		"SessionUri": "/Session/Details/117",
-		"SpeakerUri": "/Speaker/Details/880"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/117",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/880"
 	},
 	{
 		"Speaker": "Robert Boedigheimer",
 		"Title": "Debugging Your Website with Fiddler and Chrome Developer Tools",
 		"Room": "Room 105",
 		"Time": "15:30",
-		"SessionUri": "/Session/Details/174",
-		"SpeakerUri": "/Speaker/Details/1070"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/174",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/1070"
 	},
 	{
 		"Speaker": "Edward Skrod",
 		"Title": "Unit Testing Basics:  Getting Started with Automated Testing",
 		"Room": "Room 106",
 		"Time": "15:30",
-		"SessionUri": "/Session/Details/129",
-		"SpeakerUri": "/Speaker/Details/883"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/129",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/883"
 	},
 	{
 		"Speaker": "Telmo Sampaio",
 		"Title": "Deploying complex IaaS environments using the AzureCAT PnP template building blocks.",
 		"Room": "Room 200",
 		"Time": "15:30",
-		"SessionUri": "/Session/Details/170",
-		"SpeakerUri": "/Speaker/Details/946"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/170",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/946"
 	},
 	{
 		"Speaker": "Joe Mayo",
 		"Title": "Introduction to the Microsoft Bot Framework",
 		"Room": "Room 107",
 		"Time": "15:30",
-		"SessionUri": "/Session/Details/137",
-		"SpeakerUri": "/Speaker/Details/889"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/137",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/889"
 	},
 	{
 		"Speaker": "Justin Weiss",
 		"Title": "Stuck in the middle with you: Learn to peek into the connections between your apps and the web",
 		"Room": "Room 201",
 		"Time": "15:30",
-		"SessionUri": "/Session/Details/176",
-		"SpeakerUri": "/Speaker/Details/1103"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/176",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/1103"
 	},
 	{
 		"Speaker": "Kristy Overton",
 		"Title": "I am developer and so can you",
 		"Room": "Room 202",
 		"Time": "15:30",
-		"SessionUri": "/Session/Details/147",
-		"SpeakerUri": "/Speaker/Details/894"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/147",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/894"
 	},
 	{
 		"Speaker": "Matt Johnson",
 		"Title": "How to Have The Best Dates Ever!",
 		"Room": "Room 204",
 		"Time": "15:30",
-		"SessionUri": "/Session/Details/151",
-		"SpeakerUri": "/Speaker/Details/24"
+		"SessionUri": "https://seattle.codecamp.us/Session/Details/151",
+		"SpeakerUri": "https://seattle.codecamp.us/Speaker/Details/24"
 	}]]
 }
