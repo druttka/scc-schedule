@@ -1,76 +1,520 @@
 {
-	"times": [
-		{ "start": "08:30:00", "length": "60" },
-		{ "start": "09:45:00", "length": "60" },
-		{ "start": "11:00:00", "length": "30" },
-		{ "start": "11:45:00", "length": "60" },
-		{ "start": "13:00:00", "length": "60" },
-		{ "start": "14:15:00", "length": "60" },
-		{ "start": "15:30:00", "length": "60" },
-		{ "start": "16:45:00", "length": "15" }
-	],
-	"sessions":
-	[
-		[
-			{"Speaker":"Jeremy Foster","Title":"Angular.js Apps on Windows and Windows Phone","Room":"Pigott 100"},
-			{"Speaker":"Cheryl M Hammond","Title":"Metrics That Matter","Room":"Pigott 101"},
-			{"Speaker":"Jeff Tucker","Title":"Intro to Networking:  HTTP and TCP","Room":"Pigott 103"},
-			{"Speaker":"Brian Walter","Title":"Why [Operational] Engineers Should Code","Room":"Pigott 200"},
-			{"Speaker":"Eugenio Pace","Title":"Death to Cookies, Long Live JSON Web Tokens","Room":"Pigott 202"},
-			{"Speaker":"Mike Clement","Title":"Thinking in F#","Room":"Pigott 204"},
-			{"Speaker":"Jason Short, PhD","Title":"Design Rules for Free 2 Play Games","Room":"Pigott 304"}
-		],
-		[
-			{"Speaker":"Seth Paulson","Title":"Why functional programming is better for developers","Room":"Pigott 100"},
-			{"Speaker":"Mike Clement","Title":"Agile Games: Games with Cards and Dice","Room":"Pigott 101"},
-			{"Speaker":"Mark Friedman","Title":"A new approach to monitoring web application response times in Windows","Room":"Pigott 102"},
-			{"Speaker":"Josip Medved","Title":"What every developer has to know about IPv6","Room":"Pigott 103"},		
-			{"Speaker":"Chris McKenzie","Title":"Scaling Craftsmanship Through Apprenticeship","Room":"Pigott 200"},
-			{"Speaker":"Jesse Riley","Title":"Using Nodejs, OAuth and Heroku to handle n-integrations","Room":"Pigott 202"},
-			{"Speaker":"Larry Jordan Jr","Title":"Real World Xamarin","Room":"Pigott 204"}
-		],
-		[
-			{"Speaker":"John Mayfield","Title":"Nordstrom's Technology Revolution","Room":"Pigott Auditorium"}
-		],
-		[
-			{"Speaker":"Jeremy Foster","Title":"Core JavaScript Concepts","Room":"Pigott 100"},
-			{"Speaker":"Jeff Tucker","Title":"Becoming Agile: You're doing it wrong","Room":"Pigott 101"},
-			{"Speaker":"Mario Hewardt","Title":"Introduction to Advanced .NET Debugging","Room":"Pigott 102"},
-			{"Speaker":"Andrei Rubaniuk","Title":"The Elements of Your Career","Room":"Pigott 103"},
-			{"Speaker":"Jesse Riley","Title":"Hands On Intro to TDD","Room":"Pigott 200"},
-			{"Speaker":"Eugenio Pace","Title":"Are our SPAs safe?","Room":"Pigott 202"},
-			{"Speaker":"Ted Neward","Title":"Busy Developer's Guide to Apple's Swift","Room":"Pigott 204"}
-		],
-		[
-			{"Speaker":"Ted Neward","Title":"Modern Web Architecture: 2014 Edition","Room":"Pigott 100"},
-			{"Speaker":"Cheryl M Hammond","Title":"Speaking the Language of Lean: A Rosetta Stone for Frustrated Agilists","Room":"Pigott 101"},
-			{"Speaker":"Glenn Condron","Title":"ASP.NET vNext","Room":"Pigott 102"},
-			{"Speaker":"William Huckabee","Title":"Future Coders","Room":"Pigott 103"},
-			{"Speaker":"Ian Paullin","Title":"Automating Deployments with Octopus Deploy","Room":"Pigott 200"},
-			{"Speaker":"Robert Green","Title":"Adding Offline Data Support to Mobile Apps that use Azure Mobile Services","Room":"Pigott 202"},
-			{"Speaker":"James Montemagno","Title":"Building Your First Android Wear App Powered by C# with Xamarin","Room":"Pigott 204"},
-			{"Speaker":"Jon Madison","Title":"Beyond the Slab - Introduction to hardware hacking","Room":"Pigott 304"}
-		],
-		[			
-			{"Speaker":"Chris McKenzie","Title":"Unit Testing Your Javascript","Room":"Pigott 100"},
-			{"Speaker":"Mike Clement","Title":"Software Craftsmanship and Agile Code Games","Room":"Pigott 101"},
-			{"Speaker":"Matt Johnson","Title":"Dates, Times, and Time Zones - Oh My!","Room":"Pigott 102"},
-			{"Speaker":"Sanjeev Dwivedi","Title":"Developing Games with Cocos2d-x","Room":"Pigott 103"},	
-			{"Speaker":"Jeff Tucker","Title":"Low level optimizations: premature or just good code?","Room":"Pigott 200"},
-			{"Speaker":"Cameron Lerum","Title":"Opening markets with the Multilingual App Toolkit","Room":"Pigott 202"},
-			{"Speaker":"Priyank Singhal","Title":"Build cross-platform mobile apps for Android, iOS and Windows using Visual Studio with HTML, JavaScript and Cordova","Room":"Pigott 204"},
-			{"Speaker":"Jesse Riley","Title":"Thinking in a 3D space - integrating a product with a Leap Motion Controller","Room":"Pigott 304"}
-		],
-		[
-			{"Speaker":"Avkash Chauhan","Title":"Introduction to Hadoop, HDInsight & Big Data Analytics (Part 1 and 2)","Room":"Pigott 100"},
-			{"Speaker":"Mario Hewardt","Title":"Debugging Memory Problems in your .NET Applications","Room":"Pigott 102"},
-			{"Speaker":"Ted Neward","Title":"Dragonflight: A Case Study","Room":"Pigott 103"},
-			{"Speaker":"Jeremy Foster","Title":"Where Technology (Should) Fit into Real Life","Room":"Pigott 200"},
-			{"Speaker":"James Montemagno","Title":"Xamarin.Forms: iOS, Android, & Windows Phone apps from 1 C# Code Base","Room":"Pigott 204"},
-			{"Speaker":"Kelly White","Title":"Intro to Windows Platform Development","Room":"Pigott 304"}
-		],
-		[			
-			{"Speaker":"Chris Kinsman","Title":"Closing Remarks and Raffle","Room":"Pigott Auditorium"}
-		]
-	]
+	"times": ["8:30",
+	"9:45",
+	"11:00",
+	"13:00",
+	"14:15",
+	"15:30"],
+	"sessions": [[{
+		"Speaker": "Scott Seely",
+		"Title": "Management Jitters: Get over the anxiety and understand your new role!",
+		"Room": "Room 102",
+		"Time": "8:30",
+		"SessionUri": "/Session/Details/161",
+		"SpeakerUri": "/Speaker/Details/902"
+	},
+	{
+		"Speaker": "Linda Zhong",
+		"Title": "The Cross-platform Mobile Developer Starter Kit for JavaScript/web developers",
+		"Room": "Room 103",
+		"Time": "8:30",
+		"SessionUri": "/Session/Details/148",
+		"SpeakerUri": "/Speaker/Details/895"
+	},
+	{
+		"Speaker": "Bobby Johnson",
+		"Title": "Introduction to .NET Core CLI and Cross Platform Development",
+		"Room": "Room 104",
+		"Time": "8:30",
+		"SessionUri": "/Session/Details/118",
+		"SpeakerUri": "/Speaker/Details/833"
+	},
+	{
+		"Speaker": "Peter Degen-Portnoy",
+		"Title": "Live on Mars?  Teamwork and Impossible Dreams",
+		"Room": "Room 105",
+		"Time": "8:30",
+		"SessionUri": "/Session/Details/157",
+		"SpeakerUri": "/Speaker/Details/899"
+	},
+	{
+		"Speaker": "Jomit Vaghela",
+		"Title": "Azure For Developers",
+		"Room": "Room 200",
+		"Time": "8:30",
+		"SessionUri": "/Session/Details/140",
+		"SpeakerUri": "/Speaker/Details/29"
+	},
+	{
+		"Speaker": "Kevin Goldsmith",
+		"Title": "Fail safe, fail smart, succeed",
+		"Room": "Room 107",
+		"Time": "8:30",
+		"SessionUri": "/Session/Details/146",
+		"SpeakerUri": "/Speaker/Details/893"
+	},
+	{
+		"Speaker": "Patrick Kettner",
+		"Title": "Building Command Line Apps in JavaScript",
+		"Room": "Room 201",
+		"Time": "8:30",
+		"SessionUri": "/Session/Details/168",
+		"SpeakerUri": "/Speaker/Details/944"
+	},
+	{
+		"Speaker": "Jason Short",
+		"Title": "Building cross platform apps with Xamarin Forms",
+		"Room": "Room 202",
+		"Time": "8:30",
+		"SessionUri": "/Session/Details/141",
+		"SpeakerUri": "/Speaker/Details/890"
+	},
+	{
+		"Speaker": "Michael Schoonmaker",
+		"Title": "Infinite Possibilities: Procedural Content Generation",
+		"Room": "Room 204",
+		"Time": "8:30",
+		"SessionUri": "/Session/Details/183",
+		"SpeakerUri": "/Speaker/Details/1144"
+	}],
+	[{
+		"Speaker": "Abe Diaz",
+		"Title": "Introduction to building Alexa skills and putting your Amazon Echo to work. ",
+		"Room": "Room 100",
+		"Time": "9:45",
+		"SessionUri": "/Session/Details/114",
+		"SpeakerUri": "/Speaker/Details/846"
+	},
+	{
+		"Speaker": "Gaurav Garg",
+		"Title": "Role of Data Science in Healthcare Industry",
+		"Room": "Room 102",
+		"Time": "9:45",
+		"SessionUri": "/Session/Details/130",
+		"SpeakerUri": "/Speaker/Details/145"
+	},
+	{
+		"Speaker": "Sanjeev Dwivedi",
+		"Title": "Arduino and Robotics with Middle and High Schoolers: Experiments and Experiences",
+		"Room": "Room 103",
+		"Time": "9:45",
+		"SessionUri": "/Session/Details/160",
+		"SpeakerUri": "/Speaker/Details/901"
+	},
+	{
+		"Speaker": "Yatish Mehta",
+		"Title": "ActionCable and ReactJS tie the knot",
+		"Room": "Room 104",
+		"Time": "9:45",
+		"SessionUri": "/Session/Details/165",
+		"SpeakerUri": "/Speaker/Details/853"
+	},
+	{
+		"Speaker": "Michael Crump",
+		"Title": "Bring your existing code to the Universal Windows Platform on Windows 10",
+		"Room": "Room 105",
+		"Time": "9:45",
+		"SessionUri": "/Session/Details/150",
+		"SpeakerUri": "/Speaker/Details/897"
+	},
+	{
+		"Speaker": "Cam Buckingham",
+		"Title": "How to Commit to your Commits - A 365-day Commit Streak Journey ",
+		"Room": "Room 106",
+		"Time": "9:45",
+		"SessionUri": "/Session/Details/121",
+		"SpeakerUri": "/Speaker/Details/881"
+	},
+	{
+		"Speaker": "Nirnay Bansal",
+		"Title": "From Smartphones to IoT to Azure",
+		"Room": "Room 200",
+		"Time": "9:45",
+		"SessionUri": "/Session/Details/154",
+		"SpeakerUri": "/Speaker/Details/898"
+	},
+	{
+		"Speaker": "Gerard Cohen",
+		"Title": "Accessibility Testing Tools for Developers",
+		"Room": "Room 107",
+		"Time": "9:45",
+		"SessionUri": "/Session/Details/131",
+		"SpeakerUri": "/Speaker/Details/884"
+	},
+	{
+		"Speaker": "Christopher Bennage",
+		"Title": "Performance Optimization & the Cloud: Lessons Learned",
+		"Room": "Room 201",
+		"Time": "9:45",
+		"SessionUri": "/Session/Details/169",
+		"SpeakerUri": "/Speaker/Details/945"
+	},
+	{
+		"Speaker": "Jeremy Foster",
+		"Title": "Introduction to Angular 2.0",
+		"Room": "Room 202",
+		"Time": "9:45",
+		"SessionUri": "/Session/Details/166",
+		"SpeakerUri": "/Speaker/Details/888"
+	},
+	{
+		"Speaker": "Matt Johnson",
+		"Title": "Cloud Design Patterns for Scalability and Performance",
+		"Room": "Room 204",
+		"Time": "9:45",
+		"SessionUri": "/Session/Details/171",
+		"SpeakerUri": "/Speaker/Details/24"
+	}],
+	[{
+		"Speaker": "Josip Medved",
+		"Title": "Crash Course In Foreign Language Support For US Developer",
+		"Room": "Room 100",
+		"Time": "11:00",
+		"SessionUri": "/Session/Details/138",
+		"SpeakerUri": "/Speaker/Details/20"
+	},
+	{
+		"Speaker": "Jason Yee",
+		"Title": "Data-driven Postmortems",
+		"Room": "Room 102",
+		"Time": "11:00",
+		"SessionUri": "/Session/Details/143",
+		"SpeakerUri": "/Speaker/Details/891"
+	},
+	{
+		"Speaker": "Nell Shamrell-Harrington",
+		"Title": "DevOps: A History",
+		"Room": "Room 103",
+		"Time": "11:00",
+		"SessionUri": "/Session/Details/153",
+		"SpeakerUri": "/Speaker/Details/297"
+	},
+	{
+		"Speaker": "James Churchill",
+		"Title": "Reactive Programming with RxJS",
+		"Room": "Room 104",
+		"Time": "11:00",
+		"SessionUri": "/Session/Details/134",
+		"SpeakerUri": "/Speaker/Details/886"
+	},
+	{
+		"Speaker": "Parashuram N",
+		"Title": "ReactJS and ReactNative - An exhaustive introduction",
+		"Room": "Room 105",
+		"Time": "11:00",
+		"SessionUri": "/Session/Details/125",
+		"SpeakerUri": "/Speaker/Details/882"
+	},
+	{
+		"Speaker": "Cheryl Hammond",
+		"Title": "Defense Against the Dark Arts: Protect Yourself from Evil Metrics by Learning Good Ones",
+		"Room": "Room 106",
+		"Time": "11:00",
+		"SessionUri": "/Session/Details/120",
+		"SpeakerUri": "/Speaker/Details/27"
+	},
+	{
+		"Speaker": "Paul Hacker",
+		"Title": "Getting Started with Team Foundation Server 2015 Build",
+		"Room": "Room 200",
+		"Time": "11:00",
+		"SessionUri": "/Session/Details/156",
+		"SpeakerUri": "/Speaker/Details/811"
+	},
+	{
+		"Speaker": "Ted Neward",
+		"Title": "Why My International Relations Degree Beats Your Computer Science Degree",
+		"Room": "Room 107",
+		"Time": "11:00",
+		"SessionUri": "/Session/Details/163",
+		"SpeakerUri": "/Speaker/Details/105"
+	},
+	{
+		"Speaker": "Carter Wickstrom",
+		"Title": "Rider: Adventures in Cross-Platform C# Development",
+		"Room": "Room 201",
+		"Time": "11:00",
+		"SessionUri": "/Session/Details/122",
+		"SpeakerUri": "/Speaker/Details/165"
+	},
+	{
+		"Speaker": "Karl Shifflett",
+		"Title": "Testable, ES2015, AngularJS 1.5.x Component based Applications",
+		"Room": "Room 202",
+		"Time": "11:00",
+		"SessionUri": "/Session/Details/145",
+		"SpeakerUri": "/Speaker/Details/892"
+	},
+	{
+		"Speaker": "Iqbal Khan",
+		"Title": "How to Scale Entity Framework Apps with Distributed Caching",
+		"Room": "Room 204",
+		"Time": "11:00",
+		"SessionUri": "/Session/Details/182",
+		"SpeakerUri": "/Speaker/Details/1174"
+	}],
+	[{
+		"Speaker": "Josip Medved",
+		"Title": "Bash primer",
+		"Room": "Room 100",
+		"Time": "13:00",
+		"SessionUri": "/Session/Details/139",
+		"SpeakerUri": "/Speaker/Details/20"
+	},
+	{
+		"Speaker": "Jason Yee",
+		"Title": "Brooks' Law & Open Source: Is community-driven software doomed?",
+		"Room": "Room 102",
+		"Time": "13:00",
+		"SessionUri": "/Session/Details/142",
+		"SpeakerUri": "/Speaker/Details/891"
+	},
+	{
+		"Speaker": "Nell Shamrell-Harrington",
+		"Title": "Untangling Infrastructure Code Through Refactoring",
+		"Room": "Room 103",
+		"Time": "13:00",
+		"SessionUri": "/Session/Details/152",
+		"SpeakerUri": "/Speaker/Details/297"
+	},
+	{
+		"Speaker": "James Churchill",
+		"Title": "Can Anyone Learn to Program?",
+		"Room": "Room 104",
+		"Time": "13:00",
+		"SessionUri": "/Session/Details/133",
+		"SpeakerUri": "/Speaker/Details/886"
+	},
+	{
+		"Speaker": "Parashuram N",
+		"Title": "Rise of the Web Workers",
+		"Room": "Room 105",
+		"Time": "13:00",
+		"SessionUri": "/Session/Details/126",
+		"SpeakerUri": "/Speaker/Details/882"
+	},
+	{
+		"Speaker": "Cheryl Hammond",
+		"Title": "Lean Coffee: Mentoring and Community for Women in Tech",
+		"Room": "Room 106",
+		"Time": "13:00",
+		"SessionUri": "/Session/Details/119",
+		"SpeakerUri": "/Speaker/Details/27"
+	},
+	{
+		"Speaker": "Paul Hacker",
+		"Title": "Visual Studio 2015 and Azure Resource Manager",
+		"Room": "Room 200",
+		"Time": "13:00",
+		"SessionUri": "/Session/Details/155",
+		"SpeakerUri": "/Speaker/Details/811"
+	},
+	{
+		"Speaker": "Ted Neward",
+		"Title": "Psychology, Philosophy and Programming",
+		"Room": "Room 107",
+		"Time": "13:00",
+		"SessionUri": "/Session/Details/162",
+		"SpeakerUri": "/Speaker/Details/105"
+	},
+	{
+		"Speaker": "Carter Wickstrom",
+		"Title": "A Year of Robots: Teens, Tech, and Transformations",
+		"Room": "Room 201",
+		"Time": "13:00",
+		"SessionUri": "/Session/Details/123",
+		"SpeakerUri": "/Speaker/Details/165"
+	},
+	{
+		"Speaker": "Karl Shifflett",
+		"Title": "Rapid Xamarin.Forms XAML Data Entry Form Creation from MVVM ViewModel",
+		"Room": "Room 202",
+		"Time": "13:00",
+		"SessionUri": "/Session/Details/144",
+		"SpeakerUri": "/Speaker/Details/892"
+	},
+	{
+		"Speaker": "vidya vrat agarwal",
+		"Title": "How to use Agile correctly",
+		"Room": "Room 204",
+		"Time": "13:00",
+		"SessionUri": "/Session/Details/179",
+		"SpeakerUri": "/Speaker/Details/817"
+	}],
+	[{
+		"Speaker": "Robert McFrazier",
+		"Title": "Why your mobile site matters more than you think",
+		"Room": "Room 100",
+		"Time": "14:15",
+		"SessionUri": "/Session/Details/159",
+		"SpeakerUri": "/Speaker/Details/900"
+	},
+	{
+		"Speaker": "Gary Nakanelua",
+		"Title": "Getting Started With Machine Learning & Apache Spark",
+		"Room": "Room 102",
+		"Time": "14:15",
+		"SessionUri": "/Session/Details/132",
+		"SpeakerUri": "/Speaker/Details/885"
+	},
+	{
+		"Speaker": "Chris McKenzie",
+		"Title": "What I Wish I Knew Before I Started Leading a DevOps Initiative",
+		"Room": "Room 103",
+		"Time": "14:15",
+		"SessionUri": "/Session/Details/127",
+		"SpeakerUri": "/Speaker/Details/96"
+	},
+	{
+		"Speaker": "Amol Gholap",
+		"Title": ".NET CORE",
+		"Room": "Room 104",
+		"Time": "14:15",
+		"SessionUri": "/Session/Details/115",
+		"SpeakerUri": "/Speaker/Details/61"
+	},
+	{
+		"Speaker": "Robert Boedigheimer",
+		"Title": "ASP.NET Core 1.0 Tag Helpers",
+		"Room": "Room 105",
+		"Time": "14:15",
+		"SessionUri": "/Session/Details/173",
+		"SpeakerUri": "/Speaker/Details/1070"
+	},
+	{
+		"Speaker": "Maggie Pint",
+		"Title": "Your DBA Says \"It Depends\". Now What?",
+		"Room": "Room 106",
+		"Time": "14:15",
+		"SessionUri": "/Session/Details/172",
+		"SpeakerUri": "/Speaker/Details/1115"
+	},
+	{
+		"Speaker": "Jeremy Foster",
+		"Title": "Azure IoT Made Simple",
+		"Room": "Room 200",
+		"Time": "14:15",
+		"SessionUri": "/Session/Details/136",
+		"SpeakerUri": "/Speaker/Details/888"
+	},
+	{
+		"Speaker": "Derek Harmon",
+		"Title": "Making Software More Energy-Efficient",
+		"Room": "Room 107",
+		"Time": "14:15",
+		"SessionUri": "/Session/Details/149",
+		"SpeakerUri": "/Speaker/Details/896"
+	},
+	{
+		"Speaker": "Ryan Cavanaugh",
+		"Title": "Introducing TypeScript 2.0",
+		"Room": "Room 201",
+		"Time": "14:15",
+		"SessionUri": "/Session/Details/167",
+		"SpeakerUri": "/Speaker/Details/943"
+	},
+	{
+		"Speaker": "Tom Bulatewicz",
+		"Title": "The Awesome Power of Values",
+		"Room": "Room 202",
+		"Time": "14:15",
+		"SessionUri": "/Session/Details/164",
+		"SpeakerUri": "/Speaker/Details/903"
+	},
+	{
+		"Speaker": "Chris Beckett",
+		"Title": "Getting Started with Web Components using Polymer",
+		"Room": "Room 204",
+		"Time": "14:15",
+		"SessionUri": "/Session/Details/178",
+		"SpeakerUri": "/Speaker/Details/1098"
+	}],
+	[{
+		"Speaker": "Pritam Baldota",
+		"Title": "ASP.Net Core Deep dive into MVC",
+		"Room": "Room 100",
+		"Time": "15:30",
+		"SessionUri": "/Session/Details/158",
+		"SpeakerUri": "/Speaker/Details/834"
+	},
+	{
+		"Speaker": "Charles Sweet",
+		"Title": "Grow Your Career with Higher Quality Code",
+		"Room": "Room 102",
+		"Time": "15:30",
+		"SessionUri": "/Session/Details/124",
+		"SpeakerUri": "/Speaker/Details/363"
+	},
+	{
+		"Speaker": "David Corona",
+		"Title": "Let's make a DSL!",
+		"Room": "Room 103",
+		"Time": "15:30",
+		"SessionUri": "/Session/Details/128",
+		"SpeakerUri": "/Speaker/Details/131"
+	},
+	{
+		"Speaker": "Anthony Chu",
+		"Title": "Docker All the Things - .NET 4.6 apps and Windows Containers",
+		"Room": "Room 104",
+		"Time": "15:30",
+		"SessionUri": "/Session/Details/117",
+		"SpeakerUri": "/Speaker/Details/880"
+	},
+	{
+		"Speaker": "Robert Boedigheimer",
+		"Title": "Debugging Your Website with Fiddler and Chrome Developer Tools",
+		"Room": "Room 105",
+		"Time": "15:30",
+		"SessionUri": "/Session/Details/174",
+		"SpeakerUri": "/Speaker/Details/1070"
+	},
+	{
+		"Speaker": "Edward Skrod",
+		"Title": "Unit Testing Basics:  Getting Started with Automated Testing",
+		"Room": "Room 106",
+		"Time": "15:30",
+		"SessionUri": "/Session/Details/129",
+		"SpeakerUri": "/Speaker/Details/883"
+	},
+	{
+		"Speaker": "Telmo Sampaio",
+		"Title": "Deploying complex IaaS environments using the AzureCAT PnP template building blocks.",
+		"Room": "Room 200",
+		"Time": "15:30",
+		"SessionUri": "/Session/Details/170",
+		"SpeakerUri": "/Speaker/Details/946"
+	},
+	{
+		"Speaker": "Joe Mayo",
+		"Title": "Introduction to the Microsoft Bot Framework",
+		"Room": "Room 107",
+		"Time": "15:30",
+		"SessionUri": "/Session/Details/137",
+		"SpeakerUri": "/Speaker/Details/889"
+	},
+	{
+		"Speaker": "Justin Weiss",
+		"Title": "Stuck in the middle with you: Learn to peek into the connections between your apps and the web",
+		"Room": "Room 201",
+		"Time": "15:30",
+		"SessionUri": "/Session/Details/176",
+		"SpeakerUri": "/Speaker/Details/1103"
+	},
+	{
+		"Speaker": "Kristy Overton",
+		"Title": "I am developer and so can you",
+		"Room": "Room 202",
+		"Time": "15:30",
+		"SessionUri": "/Session/Details/147",
+		"SpeakerUri": "/Speaker/Details/894"
+	},
+	{
+		"Speaker": "Matt Johnson",
+		"Title": "How to Have The Best Dates Ever!",
+		"Room": "Room 204",
+		"Time": "15:30",
+		"SessionUri": "/Session/Details/151",
+		"SpeakerUri": "/Speaker/Details/24"
+	}]]
 }
