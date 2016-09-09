@@ -3,7 +3,7 @@
   <a class="time" ng-class="{selected: sc.selectedTime === t}" ng-repeat="t in sc.times" href="#" ng-click="sc.onTimeChange(t)">{{t.start}}</a>
 
   <ul class="sessions">
-    <li ng-repeat="s in sc.sessions">{{s.Title}} - {{s.Speaker}} ({{s.Room}})</li>
+    <li ng-repeat="s in sc.sessions"><a href="{{s.SessionUri}}">{{s.Title}}</a> - <a href="{{s.SpeakerUri}}">{{s.Speaker}}</a> ({{s.Room}})</li>
   </ul>
 
 </div>
